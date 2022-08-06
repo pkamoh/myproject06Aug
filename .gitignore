@@ -1,0 +1,7 @@
+configtest.xml
+file1.xml
+test.abc
+*.abc
+#this works only for new files
+#for version controlled files us git stash
+#to not ignore any file remove it from this ignore file
